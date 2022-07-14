@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Brasileirão 2022!",
+    "description": "O Campeonato Brasileiro de Jiu-Jitsu 2022 será realizado em maio nos dias 6*, 7, 8, 10*, 11, 12, 13, 14 e 15 no Ginásio José Corrêa, em Barueri, SP.
+* A CBJJ poderá agendar lutas nos dias 6 e 10 de maio, caso haja necessidade, de acordo com o número de atletas inscritos.",
+    "image": "https://cbjj.com.br/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c07dcf3273d95bc3b5d9fad63d9e5ed64985fda0/brasileiro-2022-logo-database.jpg",
+    "link": "https://cbjj.com.br/news/campeonato-brasileiro-de-jiu-jitsu-2022"
+  },
+  {
+    "id": 2,
+    "title": "Vem aí o International Master South America",
+    "description": "Com até 7 níveis de categoria (dependendo da idade) esse ano a IMSA (International Master South America) promete um card de lutas memoráveis! Corra no site da CBJJ e fique de olho nos prazos!",
+    "image": "https://www.ibjjfdb.com/Championship/Logo/1942",
+    "link": "https://cbjj.com.br/events/master-international-jiu-jitsu-championship-south-america-2022"
+  }
+]
